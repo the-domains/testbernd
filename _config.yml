@@ -1,0 +1,28 @@
+name: Testbernd
+favicon: null
+layout_spectrum: 0.08171717845834792
+typography_spectrum: 0.34861467289738357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.03252562019042671
+  lightness: 0.2708365600556135
+  saturation: 0.853623075876385
+  rhythmicContrast: 0.3182881453540176
+purpose: []
